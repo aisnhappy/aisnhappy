@@ -31,7 +31,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 <a href="https://discord.gg/wCkD2qCjsk" target="_blank">
-<img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
