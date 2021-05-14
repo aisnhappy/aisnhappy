@@ -3,11 +3,12 @@
 </div>  
   
 
-### <div align="center">My Name Is Emirhan.</div>  
+### <div align="center">My Name Is Ihsan Alperen.</div>  
   
 
 - 🔭 I’m currently working on sunucuvadisi.host
-  
+
+- 🎮 I have a Minecraft server. This is very lucrative 😋
 
 - 🌱 I’m currently learning Java
   
@@ -28,6 +29,9 @@
 </a>
 <a href="https://github.com/aisnhappy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+<a href="https://discord.gg/wCkD2qCjsk" target="_blank">
+<img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
