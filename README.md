@@ -6,7 +6,7 @@
 ### <div align="center">My Name Is Ihsan Alperen.</div>  
   
 
-- 🔭 I’m currently working on sunucuvadisi.host
+- 🔭 I’m currently working Freelance ;D
 
 - 🎮 I have a Minecraft server. This is very lucrative 😋
 
