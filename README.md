@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning Java
   
 
-<br/>  
+<br/>
+###<div align="center">Always give your best never worry for results.</div>
 
 
 
