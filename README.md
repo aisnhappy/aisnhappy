@@ -14,7 +14,7 @@
   
 
 <br/>
-###<div align="center">Always give your best never worry for results.</div>
+<div align="center">Always give your best never worry for results.</div>
 
 
 
